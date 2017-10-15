@@ -1,0 +1,5 @@
+1. break_through (3, 2, 1점)
+2. solved team counts
+3. socre board 본선 진출권 팀 background color
+4. 어드민 페이지(문제 업로드, 공지사항등 페이지 관리, 유저관리, 인증로그, 인증로그 검색(문제별, 팀별, IP별 등) => 인증로그는 인증 문제, 인증 플래그, 시간, IP, 팀명 표기
+5. 점수/푼팀 => 점수  N빵
